@@ -10,7 +10,7 @@ Supports:
     - Load types: single point load, uniform distributed load (UDL)
     - Cross-sections: rectangular, circular, I-beam (auto-computes I)
 
-Author: (your name here)
+Author: Mahrad Roshaninezhad
 """
 
 import numpy as np
